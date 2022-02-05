@@ -117,15 +117,3 @@ ul {
   min-height: 600px;
   object-fit: cover;
 }
-
-.btn {
-  height: 100px;
-  display: block;
-  margin: auto;
-}
-
-.icon {
-  height: 120px;
-  display: block;
-  margin: auto;
-}
